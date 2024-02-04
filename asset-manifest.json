@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ncahpis/static/css/main.f855e6bc.css",
-    "main.js": "/ncahpis/static/js/main.c5986ac2.js",
+    "main.js": "/ncahpis/static/js/main.b1de6c97.js",
     "static/js/592.aba51837.chunk.js": "/ncahpis/static/js/592.aba51837.chunk.js",
     "static/media/logo.svg": "/ncahpis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ncahpis/index.html",
     "main.f855e6bc.css.map": "/ncahpis/static/css/main.f855e6bc.css.map",
-    "main.c5986ac2.js.map": "/ncahpis/static/js/main.c5986ac2.js.map",
+    "main.b1de6c97.js.map": "/ncahpis/static/js/main.b1de6c97.js.map",
     "592.aba51837.chunk.js.map": "/ncahpis/static/js/592.aba51837.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c5986ac2.js"
+    "static/js/main.b1de6c97.js"
   ]
 }
